@@ -55,7 +55,7 @@ Custom Styles
 
 body{
 	color:#888;
-	font: 300 16px/22px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /*
@@ -138,6 +138,7 @@ h5{
 	font-size: 14px;
 	color: #a9b2b9;
 	font-weight: 400;
+	text-transform: uppercase;
 }
 
 strong{
@@ -154,13 +155,17 @@ em, cite{
 Links
 ====================================
 */
+a{
+	text-decoration: none;
+	color:#648880;
+}
 
 a:hover{
 	color: #a9b2b9;
 }
 
-a{
-	color:#648880;
+p a{
+	border-bottom: 1px solid #dfe2e5;
 }
 
 /*
@@ -189,6 +194,7 @@ Home
 .hero{
 	padding: 22px 80px 66px 80px;
 	line-height: 44px;
+	text-align: center;
 }
 
 .hero h2 {
@@ -197,6 +203,7 @@ Home
 
 .hero p {
 	font-size: 24px;
+	font-weight: 100;
 }
 
 .teaser a:hover h3{
@@ -230,6 +237,9 @@ Primary Header
 */
 .logo{
 	font-size: 48px;
+	font-weight: 100;
+	text-transform: uppercase;
+	letter-spacing: .5px;
 	line-height: 44px;
 	float: left;
 	border-top: 4px solid #648880;
@@ -238,11 +248,14 @@ Primary Header
 
 .tagline{
 	margin: 66px 0 22px 0;
+	text-align: right;
 }
 
 .primary-nav{
 	font-size: 14px;
 	font-weight: 400;
+	letter-spacing: .5px;
+	text-transform: uppercase;
 }
 
 /*
@@ -260,4 +273,13 @@ Primary Footer
 	font-size: 14px;
 	padding-bottom: 44px;
 	padding-top: 44px;
+}
+
+/*
+================================
+Navigation
+================================
+*/
+.nav{
+	text-align: right;
 }
