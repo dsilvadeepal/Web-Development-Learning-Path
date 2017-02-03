@@ -54,6 +54,7 @@ Custom Styles
 */
 
 body{
+	background: #293f50;
 	color:#888;
 	font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -168,6 +169,15 @@ p a{
 	border-bottom: 1px solid #dfe2e5;
 }
 
+.primary-header a,
+.primary-footer a{
+	color: #fff;
+}
+
+.primary-header a:hover,
+.primary-footer a:hover{
+	color: #648880;
+}
 /*
 =====================================
 Buttons
@@ -178,13 +188,22 @@ Buttons
 	display:inline-block;
 	border-radius: 5px;
 	margin: 0;
+	color: #fff;
+	cursor: pointer;
+	text-transform: uppercase;
+	letter-spacing: .5px;
+	font-weight: 400;
 }
 
 .btn-alt{
-	border: 1px solid #def2e5;
+	border: 1px solid #fff;
 	padding: 10px 30px;
 }
 
+.btn-alt:hover{
+	color: #648880;
+	background: #fff;
+}
 /*
 ===================================
 Home
@@ -192,6 +211,7 @@ Home
 */
 
 .hero{
+	color: #fff;
 	padding: 22px 80px 66px 80px;
 	line-height: 44px;
 	text-align: center;
