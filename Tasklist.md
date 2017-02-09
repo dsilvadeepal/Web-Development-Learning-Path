@@ -9,7 +9,7 @@
 - [x] Book: <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&amp;%20going/README.md#you-dont-know-js-up--going">You Don't Know JS: Up &amp; Going</a>
 - [x] Book: <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&amp;%20closures/README.md#you-dont-know-js-scope--closures">You Don't Know JS: Scope &amp; Closures</a>
 - [ ] Book: <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&amp;%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes">You Don't Know JS: this &amp; Object Prototype</a>
-- [ ] Course: <a href="http://learn.shayhowe.com/html-css/">Learn to Code HTML &amp; CSS</a>
+- [x] Course: <a href="http://learn.shayhowe.com/html-css/">Learn to Code HTML &amp; CSS</a>
 - [ ] Project: Portfolio from the frontend section of FCC
 - [ ] Course: <a href="https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!">Introduction to Computer Science - CS50</a>
 - [ ] Book: <a href="https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&amp;%20grammar/README.md#you-dont-know-js-types--grammar">You Don't Know JS: Types &amp; Grammar</a>
