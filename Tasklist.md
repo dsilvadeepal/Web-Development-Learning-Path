@@ -26,7 +26,12 @@
 - [ ] Project: Pick a template from <a href="http://www.free-css.com/free-css-templates">here</a> and create a new template with it as your inspiration (do not use it's assets)
 
 
-## Tier 2 - strenghten your foundation
+##Tier 2 - strenghten your foundation
+- [ ] Course: <a href="https://www.coursera.org/learn/html-css-javascript/home/welcome">Coursera - HTML, CSS and JavaScript</a>
+- [ ] Course: <a href="https://www.coursera.org/learn/web-frameworks/home/welcome">Coursera - Front-End Web UI Frameworks and Tools</a>
+- [ ] Course: <a href="https://www.coursera.org/learn/angular-js/home/welcome">Coursera - Front-End JavaScript Frameworks: AngularJS</a>
+- [ ] Course: <a href="https://www.coursera.org/learn/hybrid-mobile-development/home/welcome">Coursera - Multiplatform Mobile App Development with Web Technologies</a>
+- [ ] Course: <a href="https://www.coursera.org/learn/server-side-development/home/welcome">Coursera - Server-side Development with NodeJS</a>
 - [ ] Course: <a href="https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd1x">How to Code: Systematic Program Design - Part 1</a>
 - [ ] Course: <a href="https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd2x">How to Code: Systematic Program Design - Part 2</a>
 - [ ] Course: <a href="https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd3x">How to Code: Systematic Program Design - Part 3</a>
