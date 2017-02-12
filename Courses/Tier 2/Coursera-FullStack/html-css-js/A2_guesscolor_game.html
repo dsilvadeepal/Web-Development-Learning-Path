@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+	
+<html>
+	<head>
+	</head>
+	<body onload="play_game()">
+		
+		<script>
+			var target;
+			var guesses=0;
+			var userGuess;
+			var userGuessInt;
+			var finished = false;
+			var colorArray = ["aqua", "blueviolet", "coral", "darkred", "gold", "orange", "navy", "seagreen","skyblue", "teal","tomato","yellowgreen"]
+
+			function play_game(){
+				var target = Math.floor(Math.random()*12);
+				//alert("The correct color is: " + colorArray[target]);
+
+
+				while(!finished){
+					userGuess = prompt("Guess a color from the following: "+colorArray.join(", "));
+					if(colorArray.indexOf(userGuess) === -1 ){
+						alert("Please enter a color from the list");
+					}
+					else{
+						userGuessInt = colorArray.indexOf(userGuess);
+						guesses += 1;
+						finished = checkGuess();
+					}
+				}
+
+				function checkGuess(){
+					if(userGuessInt < target) {
+						alert("The right color is alphabetically higher!");
+						return false;
+					}	
+
+					if(userGuessInt > target) {
+						alert("The right color is alphabetically lower!");
+						return false;
+					}
+					alert("You got it! The color is "+ colorArray[target] +". It took you "+guesses+".");
+					myBody=document.getElementsByTagName("body")[0];
+                  	myBody.style.background= userGuess;
+					return true;
+				}
+			}
+		</script>
+	</body>
+</html>
