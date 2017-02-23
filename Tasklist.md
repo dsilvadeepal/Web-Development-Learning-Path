@@ -27,8 +27,8 @@
 
 
 ##Tier 2 - strenghten your foundation
-- [ ] Course: <a href="https://www.coursera.org/learn/html-css-javascript/home/welcome">Coursera - HTML, CSS and JavaScript</a>
-- [ ] Course: <a href="https://www.coursera.org/learn/web-frameworks/home/welcome">Coursera - Front-End Web UI Frameworks and Tools</a>
+- [x] Course: <a href="https://www.coursera.org/learn/html-css-javascript/home/welcome">Coursera - HTML, CSS and JavaScript</a>
+- [x] Course: <a href="https://www.coursera.org/learn/web-frameworks/home/welcome">Coursera - Front-End Web UI Frameworks and Tools</a>
 - [ ] Course: <a href="https://www.coursera.org/learn/angular-js/home/welcome">Coursera - Front-End JavaScript Frameworks: AngularJS</a>
 - [ ] Course: <a href="https://www.coursera.org/learn/hybrid-mobile-development/home/welcome">Coursera - Multiplatform Mobile App Development with Web Technologies</a>
 - [ ] Course: <a href="https://www.coursera.org/learn/server-side-development/home/welcome">Coursera - Server-side Development with NodeJS</a>
