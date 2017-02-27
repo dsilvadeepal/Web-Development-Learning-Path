@@ -94,3 +94,8 @@ body {
   position: absolute;
   right: 0px;
 }
+
+.modal-header,
+.modal-body{
+	color: #303f9f;
+}
